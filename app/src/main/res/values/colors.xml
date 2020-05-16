@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorProvinsi">#000</color>
+    <color name="colorPositif">#0B75C7</color>
+    <color name="colorSembuh">#1EC212</color>
+    <color name="colorMeninggal">#F12A1B</color>
+
+</resources>
